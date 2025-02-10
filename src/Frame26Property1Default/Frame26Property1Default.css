@@ -1,0 +1,33 @@
+.frame-26-property-1-default,
+.frame-26-property-1-default * {
+  box-sizing: border-box;
+}
+.frame-26-property-1-default {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 17px 8px 17px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 140px;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-26-property-1-default .book-a-demo {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+}
+.frame-26-property-1-default .frame {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
